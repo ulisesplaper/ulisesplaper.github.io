@@ -1,0 +1,31 @@
+---
+title: "Victor Ulises Plascencia Perez"
+image: "personalphoto.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ulisesplaper/"
+  - label: Twitter
+    url: "https://twitter.com/ulisesplaper"
+  - label: GitHub
+    url: "https://github.com/ulisesplaper"
+  - label: Email
+    url: "victorulisesplascenciaperez@gmail.com"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+I am an undergraduate student of Genomic Sciences at the National Autonomous University of Mexico (UNAM). My scientific and research interests at this stage of my career are broad and include topics such as stem cells, epigenetics, neuroscience, and synthetic biology, as well as the use of genomics and bioinformatics mainly focused on biomedical topics.
+
+## Education
+
+**National Autonomous University of Mexico** \| Cuernavaca, Mexico
+
+Bsc in Genomic Sciences \| August 2021 - Present
+
+## Experience
+
+**Center for Genomic Sciences** \| Undergraduate Researcher \| [Utrilla Lab](https://sites.google.com/ccg.unam.mx/utrillalab/) \|March 2022 - Present
+
+**State Technology & Design Research & Assistance Center** \| [Jorge Bravo Madrigal Lab](https://ciatej.mx/investigacion/investigador/jorge-bravo-madrigal-pmp-dr) | Research Internship \| January 2019 - December 2019
